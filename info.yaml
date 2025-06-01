@@ -1,0 +1,5 @@
+name: "Mi primer proyecto TT"
+author: "Katherine Castillo"
+description: "Mi módulo simple para Tiny Tapeout"
+language: "verilog"
+top_module: "src/user_module.v"
